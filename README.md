@@ -1,4 +1,5 @@
 # Keras_LSTM_Diagram
+
 Understanding Keras Recurrent Nets' structure and data flow (mainly LSTM) in a single diagram.
 
 Actually as I was working on understanding how `Recurrent Neural Networks` really work and what gives these special network architectures this high power and efficiency, especially when working with sequence datasets, I found many difficulties to get the whole concept clearly into my mind. I was very familiar with `Convolutional Neural Networks` and fully-connected `Feed-Forward` architectures, where I had been working with these networks for a long time ago, and I can simply describe it as an easy-to-cut cake. However, when talking about  `Recurrent Nets` _(e.g. LSTM's, GRU's …)_ things gets much more complex.
@@ -19,6 +20,13 @@ Please try to read the diagram from bottom to top for better flow coherence.
 # License
 This project is licensed under [GNU General Public License][1].
  
+# Donate
+Please consider to donate if you found this helpful. 
+
+- *ETH*: 0x8c64753c1678D1823Fc73B8990052Ed9a106f641
+- *BTC*: 1JE2811s3NWwDEvL8EbB4U1QB8GoPgJKDL
+
+
 [1]: https://github.com/MohammadFneish7/Keras_LSTM_Diagram/blob/master/LICENSE
 [2]: https://github.com/MohammadFneish7/Keras_LSTM_Diagram/blob/master/LSTM_keras_model.bmp
 [3]: https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
