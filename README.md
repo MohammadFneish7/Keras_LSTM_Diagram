@@ -21,8 +21,9 @@ Please try to read the diagram from bottom to top for better flow coherence.
 This project is licensed under [GNU General Public License][1].
  
 # Donate
-Please consider to donate if you found this helpful. 
+Please consider supporting my work 
 
+- [patreon](https://patreon.com/user?u=67136083&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 - *ETH*: 0x8c64753c1678D1823Fc73B8990052Ed9a106f641
 - *BTC*: 1JE2811s3NWwDEvL8EbB4U1QB8GoPgJKDL
 
